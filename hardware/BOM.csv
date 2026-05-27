@@ -1,0 +1,25 @@
+Soup Pico,,,,,,,,,,LCSC BOM Quotation,,,,,,,,,,,,,,,
+,,,,,,,,,,BOM Date Created：28/05/26 01:18:35,,,,BOM Export Date: 28/05/26 01:21:20,,,,"The matching result is a real-time query result, availability and prices may fluctuate.  
+Backorder items are estimated prices for your reference, please submit ""Create Quote"" to get the real price.
+All information is provided ""as is"" and is subject to change without notice.  Any use made of the information provided is without recourse to LCSC and at the user's risk.",,,,,,,
+,,,,,,,,,,"EST TOTAL :$5.31
+",,,,Website：https://www.lcsc.com/bom,,,,,,,,,,,
+Uploaded data,,,,,,,,,,LCSC Matching Results,,,,,,,,,,,,,,,
+LCSC#,Mfr.,Mrf#,Description,Package,Value,Customer Part Number,Quantity,Target Price(USD),Target Lead Time(Business Days),Mrf#,Mfr.,Order Qty.,Unit Price(USD),Ext.Price(USD),LCSC#,Package,Min,Mult,SPQ,Availability,Stock Status,Customer Notes,Description,Matched status,Product Link
+C42400876,HMTCONN(华明通),TS50810,,SW-SMD_L6.2-W3.7-LS8.0,,-,2,,,TS50810-411-02528,HMTCONN,20,0.0215,0.43,C42400876,-,20,20,3000,16520,In Stock,,"12V Without Bracket 3.7mm Rectangular Button 6.1mm SPST 50mA SMD,6.2x3.7mm Tactile Switches RoHS",Exact Matches,
+C2961140,Raspberry Pi(树莓派),RP2040,,QFN-56_L7.0-W7.0-P0.40-TL-EP4.0,,-,1,,,RP2040,Raspberry Pi,0,1.0394,0.01,C2961140,-,1,1,3400,0,In Stock,,QFN-56-EP(7x7) Microcontrollers RoHS,Exact Matches,
+C179173,Winbond(华邦),W25Q32JVSSIQ,,SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL,,-,1,,,W25Q32JVSSIQ,Winbond,1,0.9016,0.90,C179173,-,1,1,2000,103037,In Stock,,32Mbit 2.7V~3.6V 133MHz SPI SOIC-8-208mil Memory (ICs) RoHS,Exact Matches,
+C6186,AMS,AMS1117-3.3,,SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR,,-,1,,,AMS1117-3.3,Advanced Monolithic Systems,5,0.1368,0.68,C6186,-,5,5,2500,1869975,In Stock,,"3.3V Positive Fixed SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",Exact Matches,
+C2927038,DEALON(德艺隆),USB-TYPE-C-018,,USB-C_SMD-TYPE-C-31-M-12,,-,1,,,USB-TYPE-C-018,DEALON,10,0.0519,0.52,C2927038,-,10,10,1500,94270,In Stock,,"USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount, Right Angle",Exact Matches,
+C295511,TAITIEN(泰艺电子),OVETGLJANF-12MHZ,,OSC-SMD_4P-L5.0-W3.2-BL_SG5032,,-,1,,,OVETGLJANF-12MHZ,TAITIEN Elec,1,0.6282,0.63,C295511,-,1,1,1000,174,In Stock,,Oscillator 12MHz 3.3V SMD5032-4P,Exact Matches,
+C42431810,JXTCONN(聚兴泰),PH2.54-1X10P-H25,,HDR-TH_10P-P2.54-V-M,,-,2,,,PH2.54-1X10P-H25,JXTCONN,10,0.0515,0.52,C42431810,"Through Hole,P=2.54mm",10,10,1000,12060,In Stock,,Pin Header 10 Position 2.54mm Pitch Single Row Through Hole -40℃~+105℃,Exact Matches,https://www.lcsc.com/product-detail/C42431810.html
+C105881,YAGEO(国巨),RC0603FR-07330RL,,R0603_NEW,,-,3,,,RC0603FR-07330RL,YAGEO,100,0.0007,0.07,C105881,-,100,100,5000,443200,In Stock,,100mW 330Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,
+C137753,YAGEO(国巨),RC0603FR-0727RL,,R0603_NEW,,-,2,,,RC0603FR-0727RL,YAGEO,100,0.0007,0.07,C137753,-,100,100,5000,203900,In Stock,,100mW 27Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,
+C2930027,FOJAN(富捷),FRC0603J103 TS,,R0603_NEW,,-,4,,,FRC0603J103 TS,FOJAN,100,0.0005,0.05,C2930027,-,100,100,5000,6906100,In Stock,,10kΩ ±5% 100mW 0603 Thick Film Resistor,Exact Matches,
+C2907044,FOJAN(富捷),FRC0603F5101TS,,R0603_NEW,,-,2,,,FRC0603F5101TS,FOJAN,100,0.0005,0.05,C2907044,-,100,100,5000,5595600,In Stock,,5.1kΩ ±1% 100mW 0603 Thick Film Resistor,Exact Matches,
+C19273152,YONGYUTAI(永裕泰),YLED0603Y,,LED0603-RD-1,,-,2,,,YLED0603Y,YONGYUTAI,100,0.0030,0.30,C19273152,-,100,100,4000,71000,In Stock,,Yellow LED Indication - Discrete 1.8V~2.4V 0603,Exact Matches,
+C14663,YAGEO(国巨),CC0603KRX7R9BB104,,C0603,,-,2,,,CC0603KRX7R9BB104,YAGEO,100,0.0014,0.14,C14663,-,100,100,4000,48000,In Stock,,100nF ±10% 50V Ceramic Capacitor X7R 0603,Exact Matches,
+C19702,SAMSUNG(三星),CL10A106KP8NNNC,,C0603,,-,1,,,CL10A106KP8NNNC,Samsung Electro-Mechanics,20,0.0060,0.12,C19702,-,20,20,4000,224620,In Stock,,10uF ±10% 10V Ceramic Capacitor X5R 0603,Exact Matches,
+C29936,SAMSUNG(三星),CL10B105KA8NNNC,,C0603,,-,1,,,CL10B105KA8NNNC,Samsung Electro-Mechanics,50,0.0053,0.27,C29936,-,50,50,4000,122500,In Stock,,1uF ±10% 25V Ceramic Capacitor X7R 0603,Exact Matches,
+C19273151,YONGYUTAI(永裕泰),YLED0603G,,LED0603-FD,,-,1,,,YLED0603G,YONGYUTAI,100,0.0032,0.32,C19273151,-,100,100,4000,63700,In Stock,,Emerald Green LED Indication - Discrete 2.7V~3.2V 0603,Exact Matches,
+C376875,CCTC(三环),TCC0805COG220J500BT,,C0805,,-,2,,,TCC0805COG220J500BT,CCTC,100,0.0023,0.23,C376875,-,100,100,4000,180400,In Stock,,22pF ±5% 50V Ceramic Capacitor C0G 0805,Exact Matches,
