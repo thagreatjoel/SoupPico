@@ -39,9 +39,8 @@ The Soup Pico has a two-layer printed circuit board with a cat-shaped outline. I
 
 
 
-<img width="500" alt="Screenshot 2026-05-27 232959" src="https://github.com/user-attachments/assets/c993e542-13e3-4911-9841-940b14cb5d56" />
-
-<img width="480" alt="image" src="https://github.com/user-attachments/assets/d40c4f7c-70b7-4134-b079-250ac37e706d" />
+<img width="400" alt="Screenshot 2026-05-27 232959" src="https://github.com/user-attachments/assets/c993e542-13e3-4911-9841-940b14cb5d56" />
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/d40c4f7c-70b7-4134-b079-250ac37e706d" />
 
 </div>
 
