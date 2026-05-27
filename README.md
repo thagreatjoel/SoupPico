@@ -35,15 +35,13 @@ I was tired of looking at the old rectangular dev boards. So I decided to learn 
 
 The Soup Pico has a two-layer printed circuit board with a cat-shaped outline. I tried to keep the USB and crystal traces short. I also made sure to add a lot of ground and put capacitors to the RP2040 chip.
 
-<div align="center">
+<h1 align="center">Layers</h1>
 
-layer<br>
 
-<img width="500" src="Images/top.png" />
 
-<br><br>
+<img width="500" alt="Screenshot 2026-05-27 232959" src="https://github.com/user-attachments/assets/c993e542-13e3-4911-9841-940b14cb5d56" />
 
-Bottom layer<br> <img width="500" src="Images/bottom.png" />
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/d40c4f7c-70b7-4134-b079-250ac37e706d" />
 
 </div>
 
@@ -67,8 +65,8 @@ Bottom layer<br> <img width="500" src="Images/bottom.png" />
 Flashing the Soup Pico is the same as any RP2040 board:
 
 - Hold down **BOOTSEL**
-- Plug in the USB cable (keep holding)
-- Let go – a drive called `RPI-RP2` pops up
+- Plug in the USB cable
+-  a drive called `RPI-RP2` pops up
 - Drag and drop a `.uf2` file. That is it.
 
 ### GPIO pins on the Soup Pico
@@ -102,15 +100,5 @@ void loop() {
 ```
 
 
-## Troubleshooting the Soup Pico (because something always goes wrong)
-
-| Problem                          | Try this                                                                 |
-|----------------------------------|--------------------------------------------------------------------------|
-| No `RPI-RP2` drive               | Check your USB cable – some are charge-only. Try another port.           |
-| Firmware flashes but nothing happens | Make sure you're using a valid `.uf2`. Maybe re-download it.           |
-| No serial output                 | Are you using GP0/GP1 at 115200 baud? Double-check.                      |
-| Board gets hot                   | You have a short. Unplug immediately and inspect your soldering.         |
-
-## License of the Soup Pico
-
-The Soup Pico uses the MIT license. You can do whatever you want with it. If you build something I would love to see it.
+# Zine Page
+<img width="600" alt="zine4" src="https://github.com/user-attachments/assets/b22fac3d-c55e-4787-99ba-d6c0f9264736" />
